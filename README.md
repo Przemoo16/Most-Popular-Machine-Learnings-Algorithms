@@ -3,6 +3,7 @@
 An overview of the most popular machine learning algorithms.
 
 In each section except PCA there are two examples, one easier the second one more advanced:
+
 file_name_1 - easier
 file_name_2 - more advanced
 
