@@ -2,9 +2,9 @@
 
 An overview of the most popular machine learning algorithms.
 
-In each section except PCA there are two examples, one easier the second one more advanced:  
+In each section except PCA there are two examples, one easier the second one advanced:  
 file_name_1 - easier  
-file_name_2 - more advanced
+file_name_2 - advanced
 
 Solutions are based on the course [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) created by [Jose Portilla](https://www.udemy.com/user/joseportilla/)
 
