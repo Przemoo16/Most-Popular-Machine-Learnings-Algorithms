@@ -24,6 +24,7 @@ Solutions are based on the course [Python for Data Science and Machine Learning 
 * [Scikit-Learn](https://scikit-learn.org/stable/) - Data mining and data analysis library
 * [Numpy](http://www.numpy.org) - Package for scientific computing
 * [Pandas](https://pandas.pydata.org) - Data analysis library
+* [Matplotlib](https://matplotlib.org) - Plotting library
 * [Seaborn](https://seaborn.pydata.org) - Data visualization library based on matplotlib
 
 ## Author
