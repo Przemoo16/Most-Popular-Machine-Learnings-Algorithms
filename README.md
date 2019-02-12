@@ -2,7 +2,7 @@
 
 An overview of the most popular machine learning algorithms.
 
-In each section except PCA there are two examples, one easier the second one advanced:  
+In each section except PCA and Recommender Systems there are two examples, one easier the second one advanced:  
 file_name_1 - easier  
 file_name_2 - advanced
 
@@ -18,6 +18,8 @@ Solutions are based on the course [Python for Data Science and Machine Learning 
 - Principal Component Analysis
 - Random Forests
 - Support Vector Machines
+- Natural Language Processing
+- Recommender Systems
 
 ## Requirements
 
