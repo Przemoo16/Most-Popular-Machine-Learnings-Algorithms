@@ -28,6 +28,7 @@ Solutions are based on the course [Python for Data Science and Machine Learning 
 * [Pandas](https://pandas.pydata.org) - Data analysis library
 * [Matplotlib](https://matplotlib.org) - Plotting library
 * [Seaborn](https://seaborn.pydata.org) - Data visualization library based on matplotlib
+* [NLTK](https://www.nltk.org) - Platform for building Python programs to work with human language data
 
 ## Author
 
