@@ -10,14 +10,14 @@ Solutions are based on the course [Python for Data Science and Machine Learning 
 
 ### List of algorithms
 
-- Decision Trees
-- K-Means Clustering
-- K-Nearest Neighbors
 - Linear Regression
 - Logistic Regression
-- Principal Component Analysis
-- Random Forests
+- K-Nearest Neighbors
+- K-Means Clustering
 - Support Vector Machines
+- Decision Trees
+- Random Forests
+- Principal Component Analysis
 - Natural Language Processing
 - Recommender Systems
 
